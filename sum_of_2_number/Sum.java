@@ -1,5 +1,3 @@
-package Basic_Java.sum_of_2_number;
-
 public class Sum {
     private int a;
     private int b;
